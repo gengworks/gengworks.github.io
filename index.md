@@ -10,9 +10,10 @@ https://github.com/gengworks
 
 #深度学习,花书 Yoshua Bengio, Ian GoodFellow
 #机器学习,西瓜书 周志华 南大
-#统计学习方法 1、2版 李航
+#统计学习方法 1,2版 李航
 
 #Andrew Ng 斯坦福机器学习,cs229、Coursera
+https://see.stanford.edu/Course/CS229/
 
 https://www.coursera.org/learn/machine-learning/home/welcome
 https://www.cnblogs.com/maxiaodoubao/p/9856346.html
