@@ -1,8 +1,8 @@
 
 hello gengx from github.io
 
-<p>#github主页</p>
-<p><a href="https://github.com/gengworks"> https://github.com/gengworks </a></p>
+#github主页
+https://github.com/gengworks
 
 
 
@@ -13,6 +13,7 @@ hello gengx from github.io
 #统计学习方法 1、2版 李航
 
 #Andrew Ng 斯坦福机器学习,cs229、Coursera
+
 https://www.coursera.org/learn/machine-learning/home/welcome
 https://www.cnblogs.com/maxiaodoubao/p/9856346.html
 https://www.cnblogs.com/maxiaodoubao/p/9856694.html
