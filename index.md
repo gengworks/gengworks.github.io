@@ -1,4 +1,3 @@
-﻿
 
 #hello gengx from github.io
 
@@ -7,13 +6,10 @@
 #github主页
 
 https://github.com/gengworks
-
-
-
+[github主页](https://github.com/gengworks)
 
 
 ##机器学习
-
 
 
 #深度学习,花书 Yoshua Bengio, Ian GoodFellow
