@@ -4,9 +4,7 @@
 
 
 #github主页
-
-https://github.com/gengworks
-[github主页](https://github.com/gengworks)
+[https://github.com/gengworks](https://github.com/gengworks)
 
 
 ##机器学习
