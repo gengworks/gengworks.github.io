@@ -32,6 +32,7 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 https://www.cnblogs.com/maxiaodoubao/category/1328128.html
 
+https://www.cnblogs.com/leezx/p/5631138.html
 
 * ddnl 神经网络与深度学习 邱锡鹏 复旦
 
