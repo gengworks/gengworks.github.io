@@ -28,10 +28,8 @@ https://see.stanford.edu/Course/CS229/
 
 https://www.coursera.org/learn/machine-learning/home/welcome
 
-https://www.cnblogs.com/maxiaodoubao/p/9856346.html
-
-https://www.cnblogs.com/maxiaodoubao/p/9856694.html
-
+国内练习
+https://www.cnblogs.com/maxiaodoubao/category/1328128.html
 
 
 * ddnl 神经网络与深度学习 邱锡鹏 复旦
